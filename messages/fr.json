@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "operations": "Opérations",
+    "budget": "Budget",
+    "alerts": "Alertes",
+    "settings": "Paramètres",
+    "signout": "Se déconnecter"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "revenue": "Chiffre d'affaires",
+    "ebitda": "EBITDA réel",
+    "volume": "Volume récolté",
+    "budget_consumed": "Budget consommé"
+  },
+  "operations": {
+    "title": "Journal des opérations",
+    "new": "Nouvelle entrée",
+    "harvest": "Récolte",
+    "input": "Consommation intrant",
+    "labor": "Main d'oeuvre",
+    "energy": "Relevé énergie"
+  },
+  "budget": {
+    "title": "Budget",
+    "annual": "Budget annuel",
+    "actual_ytd": "Réel YTD",
+    "variance_mad": "Écart (MAD)",
+    "variance_pct": "Écart (%)",
+    "create": "Créer / Modifier le budget"
+  },
+  "alerts": {
+    "title": "Alertes",
+    "dismiss": "Ignorer",
+    "dismiss_all": "Tout ignorer",
+    "empty": "Aucune anomalie détectée",
+    "critical": "Critique",
+    "warning": "Avertissement",
+    "info": "Information"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "total": "Total",
+    "export": "Export",
+    "local": "Marché local"
+  }
+}
